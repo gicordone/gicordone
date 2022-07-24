@@ -1,5 +1,5 @@
 # Olá! Eu sou a Giselle 
 
-- 🌱 Estou estudando dev back-end 
+- 🌱 Dev back-end em formação
 - ⚽ Eu gosto de jogar Altinha
 - 😄 Pronomes: ela/dela 
